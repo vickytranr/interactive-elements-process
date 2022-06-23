@@ -43,6 +43,10 @@ img {
 .section {
     margin-bottom: 100px;
 }
+
+a{
+    font-size:2em;
+}
 /* End of spacing and layout */
 
 /* Adding media queries for page to adapts to tablet and mobile devices */
